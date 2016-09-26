@@ -146,13 +146,13 @@ img{
 	}
 }
 .main .container{
-	@include ons{
+	@include ons {
 		width: 750px;
 	};
-	@include onm{
+	@include onm {
 		width: 970px;
 	};
-	@include onl{
+	@include onl {
 		width: 1170px;
 	};
 }
